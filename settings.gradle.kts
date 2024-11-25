@@ -6,3 +6,5 @@ pluginManagement {
 }
 
 rootProject.name = "kengine-sdl"
+
+include("kengine", "boxxle")
